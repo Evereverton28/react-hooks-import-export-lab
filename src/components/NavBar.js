@@ -1,9 +1,11 @@
-import React from "react";
+import React from 'react';
 
 function NavBar() {
-  return (
-    <nav>
-      <a href="#home">I'm a link!</a>
-    </nav>
-  );
+    return (
+        <nav>
+            {/* NavBar contents here */}
+        </nav>
+    );
 }
+
+export default NavBar;
